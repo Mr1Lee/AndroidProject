@@ -6,4 +6,5 @@ package com.example.administrator.myapplication;
 
 public class Regiter {
     private String name;
+    private String user;
 }
