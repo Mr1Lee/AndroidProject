@@ -5,4 +5,6 @@ public class Login {
     private int ddada;
     private int dadaddaada;
     int dada;
+    int dadfafka;
+
 }
